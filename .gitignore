@@ -1,0 +1,18 @@
+# Large source audio (upload separately via release)
+*.wav
+!examples/*/demo*.wav
+!examples/*/*.wav
+
+# OS
+.DS_Store
+__pycache__/
+*.pyc
+
+# Python
+*.egg-info/
+dist/
+*.whl
+
+# Editor
+.idea/
+.vscode/

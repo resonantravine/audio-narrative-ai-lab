@@ -30,7 +30,7 @@ A short soft sci-fi / fairy-tale audio piece developed from a real field recordi
 
 **Key source anchors**: breath, *xiū xiū* sounds, *nǐ hǎo*, *xiǎo bǎobèi*, *kuài shuìjiào* — treated as high-salience sonic and linguistic cues.
 
-🎧 [A Black Box in the Park.mp3](examples/bridge-black-box/A%20Black%20Box%20in%20the%20Park.mp3)
+🎧 [A Black Box in the Park.mp3](https://raw.githubusercontent.com/resonantravine/audio-narrative-ai-lab/main/examples/bridge-black-box/A%20Black%20Box%20in%20the%20Park.mp3)
 
 ### 2. Non-fiction — Parisian Meets Mandarin
 
@@ -38,7 +38,7 @@ A production case study transforming a small mixed-language interview (Chinese /
 
 **Process**: original interviewee voice + English interviewer VO + English translation track for French speech, aligned with human editing and AI-generated ambience / BGM.
 
-📁 [Parisian Meets Mandarin.mp3](non-fiction-case/Parisian%20Meets%20Mandarin.mp3)
+📁 [Parisian Meets Mandarin.mp3](https://raw.githubusercontent.com/resonantravine/audio-narrative-ai-lab/main/non-fiction-case/Parisian%20Meets%20Mandarin.mp3)
 
 ---
 
